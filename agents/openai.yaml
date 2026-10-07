@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mac Storage Optimizer"
+  short_description: "Inspect Mac storage and clean only approved items"
+  default_prompt: "Use $mac-storage-optimizer to inspect my Mac storage and show a cleanup plan before changing files."
